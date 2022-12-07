@@ -1,0 +1,177 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #DCE1DE;
+}
+
+#bodyStyle {
+  background-color: #f2f8f5;
+  color: #1F2421;
+}
+
+.heroImg {
+  width: 100%;
+  height: auto;
+}
+
+.heroText {
+  font-size: 1.5rem;
+}
+
+.heroTitle {
+  font-size: 3rem;
+}
+
+.heroSection {
+  padding-top: 5%;
+}
+
+#highlight {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#info {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.loginFormHero {
+  padding-top: 5%;
+}
+
+.content {
+  margin: 3% auto;
+  text-align: center;
+}
+
+.img {
+  display: inline-block;
+}
+
+.heading {
+  display: inline-block;
+  padding: 0 2%;
+}
+
+.welcome-prompt {
+  padding: 2% 0;
+}
+
+.customBtn {
+  text-decoration: none;
+  background: #49A078;
+  color: #DCE1DE;
+  padding: 14px 16px;
+  border-radius: 28px;
+  cursor: pointer;
+  border: 0;
+}
+
+.customBtnSecondary {
+  text-decoration: none;
+  background: none;
+  color: #49A078;
+  padding: 14px 16px;
+  border-radius: 28px;
+  cursor: pointer;
+  border: 2px solid #49A078;
+}
+
+.customBtnSecondary:hover {
+  text-decoration: none;
+  color: #49A078;
+}
+
+.customBtnSecondaryx:hover {
+  text-decoration: none;
+  color: #49A078;
+}
+
+.customBtnSecondaryx {
+  text-decoration: none;
+  background: none;
+  color: #49A078;
+  padding: 14px 16px;
+  border-radius: 28px;
+  cursor: pointer;
+  border: 0px;
+}
+
+.customBtn:hover {
+  text-decoration: none;
+  color: #DCE1DE;
+}
+
+.form {
+  margin-left: 42vw;
+}
+
+.group {
+  margin: 20px 0;
+  padding: 5px;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  background: #49A078;
+  color: #DCE1DE;
+  border-radius: 5px;
+}
+
+#google_translate_element {
+  text-align: center;
+}
+
+.display-none {
+  display: none;
+}
+
+.display-block {
+  display: block;
+}
+
+.input {
+  padding: 4px 8px;
+}
+
+.status-success {
+  color: green;
+}
+
+.status-fail {
+  color: red;
+}
+
+.productList {
+  display: inline;
+  padding: 2%;
+  margin-right: 2%;
+  background-color: #DCE1DE;
+  border-radius: 8px;
+  filter: drop-shadow(0px 5px 10px #A2BDAD);
+  float: left;
+}
+
+.cursor-pointer:hover {
+  cursor: pointer;
+}
+
+#product-details {
+  margin-top: 5%;
+}
+
+.cursor-disabled {
+  cursor: not-allowed;
+  background: #A2BDAD;
+}
+
+.navbar-nav li {
+  display: inline;
+}
+
+ul.navbar-nav {
+  display: flex;
+  list-style: none;
+}
+
+#highlight.row {
+  font-weight: 600;
+}
